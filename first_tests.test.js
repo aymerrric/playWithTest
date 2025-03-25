@@ -1,5 +1,5 @@
-const capitalize = require("./app");
+const capitalizeFirstLetter = require("./app");
 
 test("capitalize (example 1)", () => {
-  expect(capitalize("banana")).toBe("BANANA");
+  expect(capitalizeFirstLetter("banana")).toBe("Banana");
 });

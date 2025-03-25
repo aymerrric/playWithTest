@@ -4,7 +4,8 @@
   "description": "Write my first tests",
   "main": "first_tests.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "repository": {
     "type": "git",
