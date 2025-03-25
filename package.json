@@ -1,0 +1,22 @@
+{
+  "name": "playwithtests",
+  "version": "1.0.0",
+  "description": "Write my first tests",
+  "main": "first_tests.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aymerrric/playWithTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aymerrric/playWithTest/issues"
+  },
+  "homepage": "https://github.com/aymerrric/playWithTest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
